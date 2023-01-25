@@ -1,3 +1,5 @@
+# Spotify-Billboard-Predictor
+
 <b>Context</b>
 
 The purpose of this project was to perform descriptive and inferential statistical analysis using  Spotify APIs of over 15,000 songs. Songs were analyzed from three decades (1990s, 2000s, and 2010s) to determine which song features are correlated with Billboard success, and which model can be constructed from these features with the best accuracy.
