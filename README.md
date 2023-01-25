@@ -16,9 +16,9 @@ This is a [dataset](https://www.kaggle.com/datasets/theoverman/the-spotify-hit-p
 <b>Acknowledgements:</b>
 
 - "spotipy": Python module for Spotify's API (https://pypi.org/project/spotipy/)
-- 
+
 - "billboard": Python module for Billboard's API (https://pypi.org/project/billboard.py/)
-- 
+ 
 - Spotify, the company itself. For keeping a database of such in-depth details of every track in their library. And for exposing their API for the world to use.
 
 <b>Attributes:</b>
